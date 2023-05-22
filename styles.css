@@ -4,5 +4,21 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.title-container {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+li {
+    margin: 2em; 
+}
+
 
 
